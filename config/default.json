@@ -1,6 +1,6 @@
 {
     "port" : 5000,
-    "jwtSecret" : "vladyslav create with mern",
-    "mongoUri" : "mongodb+srv://adminvlad:pass1234@cluster0-gvp5o.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret" : "",
+    "mongoUri" : "mongodb+srv://user:password@cluster0-xxxx.azure.mongodb.net/app?retryWrites=true&w=majority",
     "baseUrl" : "http://localhost:5000"
 }
